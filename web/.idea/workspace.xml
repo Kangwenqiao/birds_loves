@@ -1,0 +1,176 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="2f9efec2-5479-4380-a3ff-9343311c936f" name="更改" comment="">
+      <change afterPath="$PROJECT_DIR$/script.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/style.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/js/images/image1.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/image1.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/js/images/image2.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/image2.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/js/images/image3.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/image3.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/js/images/image4.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/image4.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/js/images/image5.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/image5.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/js/images/image6.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/image6.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/js/images/image7.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/js/images/image8.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/js/images/image9.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/js/images/kang.png" beforeDir="false" afterPath="$PROJECT_DIR$/images/kang.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/js/main.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="UPDATE_TYPE" value="REBASE" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;Kangwenqiao&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">
+    <option name="selectedUrlAndAccountId">
+      <UrlAndAccount>
+        <option name="accountId" value="4ceb886d-af8b-4ba7-8858-0ac3249c688e" />
+        <option name="url" value="https://github.com/Kangwenqiao/PersonWebpage.git" />
+      </UrlAndAccount>
+    </option>
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/assets/css/vno.css" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 3
+}</component>
+  <component name="ProjectId" id="2aLNpGexukGDOrJlVKMuUnn9NoB" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+    <option name="showMembers" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/asus/OneDrive/脚本编程/web&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.lookFeel&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\asus\OneDrive\脚本编程\web\index" />
+      <recent name="C:\Users\asus\OneDrive\脚本编程\web" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="index.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63343/web/index.html" useBuiltInWebServerPort="true">
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JavaScript 调试.index.html" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="应用程序级" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="默认任务">
+      <changelist id="2f9efec2-5479-4380-a3ff-9343311c936f" name="更改" comment="" />
+      <created>1704094080871</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1704094080871</updated>
+      <workItem from="1704094081885" duration="1677000" />
+      <workItem from="1704095915003" duration="7425000" />
+      <workItem from="1704115306138" duration="374000" />
+      <workItem from="1704184395175" duration="24000" />
+      <workItem from="1704189252693" duration="2000" />
+      <workItem from="1704192868805" duration="34000" />
+      <workItem from="1704270758585" duration="4054000" />
+      <workItem from="1704287952525" duration="14000" />
+      <workItem from="1704289263086" duration="3635000" />
+      <workItem from="1704331478553" duration="27000" />
+      <workItem from="1704382748605" duration="90000" />
+      <workItem from="1704420733838" duration="991000" />
+      <workItem from="1704454786727" duration="3439000" />
+      <workItem from="1708608506464" duration="631000" />
+      <workItem from="1708679069906" duration="360000" />
+      <workItem from="1708691236305" duration="38000" />
+      <workItem from="1708691300569" duration="527000" />
+    </task>
+    <task id="LOCAL-00001" summary="change">
+      <option name="closed" value="true" />
+      <created>1704095426672</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1704095426672</updated>
+    </task>
+    <task id="LOCAL-00002" summary="change">
+      <option name="closed" value="true" />
+      <created>1704097278620</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1704097278620</updated>
+    </task>
+    <task id="LOCAL-00003" summary="change">
+      <option name="closed" value="true" />
+      <created>1704097815879</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1704097815879</updated>
+    </task>
+    <task id="LOCAL-00004" summary="change">
+      <option name="closed" value="true" />
+      <created>1704099350171</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1704099350171</updated>
+    </task>
+    <task id="LOCAL-00005" summary="change">
+      <option name="closed" value="true" />
+      <created>1704102692080</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1704102692080</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="change" />
+    <option name="LAST_COMMIT_MESSAGE" value="change" />
+  </component>
+</project>
